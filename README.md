@@ -1,4 +1,4 @@
-# Well this is just a script for 10fastfingers I did on my free time.
+# Well this is just a script for 10FastFingers I did on my free time.
 ## - [x] Fastest one out there
 ## - [x] Ease of use
 ## - [x] No need to spam your buttons
@@ -10,5 +10,5 @@
 ## 3. Paste [this](https://pastebin.com/XSng70Cb) in there {[alternative_link](https://github.com/lowylow/10fastfingers_cheat/blob/master/cheat.js)}.
 ## 4. Press ENTER and boom!
 
-# GIF Example for Dummies
+# GIF Example for dummies
 ![example_10fastfingers_cheat](https://i.imgur.com/8lv0fAk.gif)
