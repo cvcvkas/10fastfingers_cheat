@@ -1,4 +1,4 @@
-# Well this is just a cheat for 10fastfingers I did on my free time.
+# Well this is just a script for 10fastfingers I did on my free time.
 ## - [x] Fastest one out there
 ## - [x] Ease of use
 ## - [x] No need to spam your buttons
